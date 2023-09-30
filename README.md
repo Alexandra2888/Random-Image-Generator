@@ -1,3 +1,3 @@
-# Random-Image-Generator
+## Random-Image-Generator
 
-# You can see it live here: https://random-image-generator28.netlify.app/
+ You can see it live here: https://random-image-generator28.netlify.app/
